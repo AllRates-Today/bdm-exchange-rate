@@ -85,7 +85,7 @@ const pair = await getRate('USD', 'MZN', { apiKey: 'art_live_...' });
 {
   bank: 'bdm',
   name: 'Banco de Moçambique',
-  rate_date: '2026-09-09',   // Banco de Moçambique's own publication date
+  rate_date: '2026-09-25',   // Banco de Moçambique's own publication date
   source: 'USD',
   target: 'MZN',
   rate: 64.54,
@@ -113,7 +113,7 @@ console.log(table.rate_date, table.rates.length);
 {
   bank: 'bdm',
   name: 'Banco de Moçambique',
-  rate_date: '2026-09-09',
+  rate_date: '2026-09-25',
   rates: [
     { "base": "USD", "quote": "MZN", "type": "sell", "value": 64.54 },
     { "base": "USD", "quote": "MZN", "type": "buy", "value": 63.27 },
@@ -156,7 +156,7 @@ Paid plans. One resolved rate per publication date — ready for charting, reval
 import { getHistory } from 'bdm-exchange-rate';
 
 const series = await getHistory(
-  { source: 'USD', target: 'MZN', from: '2026-01-01', to: '2026-09-09' },
+  { source: 'USD', target: 'MZN', from: '2026-01-01', to: '2026-09-25' },
   { apiKey: 'art_live_...' }
 );
 ```
@@ -169,11 +169,11 @@ const series = await getHistory(
   source: 'USD',
   target: 'MZN',
   from: '2026-01-01',
-  to: '2026-09-09',
+  to: '2026-09-25',
   count: 152,
   rates: [
     // one entry per publication date
-    { date: '2026-09-09', rate: 64.54, rate_type: 'sell', derived: false, method: 'published' },
+    { date: '2026-09-25', rate: 64.54, rate_type: 'sell', derived: false, method: 'published' },
     // …
   ],
   disclaimer: '…'
