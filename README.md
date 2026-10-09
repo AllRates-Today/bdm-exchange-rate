@@ -40,50 +40,50 @@ The open endpoint serves the *latest* table only and asks for a visible attribut
 Today's full Banco de Moçambique table, straight from the central bank's latest publication. On GitHub it is refreshed by [a daily Action](.github/workflows/daily-table.yml) that reads the keyless endpoint above and commits only when the central bank publishes a new table; the copy on npm is as of the package's publish date.
 
 <!-- daily-table:start -->
-Published **2026-10-08** by Banco de Moçambique — 40 rates. Updated 2026-10-08.
+Published **2026-10-09** by Banco de Moçambique — 40 rates. Updated 2026-10-09.
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
 | AED | MZN | buy | 17.23 |
 | AED | MZN | sell | 17.57 |
-| AUD | MZN | buy | 43.99 |
-| AUD | MZN | sell | 44.87 |
-| BRL | MZN | buy | 12.6 |
-| BRL | MZN | sell | 12.85 |
-| BWP | MZN | buy | 4.84 |
-| BWP | MZN | sell | 4.94 |
-| CAD | MZN | buy | 44.36 |
-| CAD | MZN | sell | 45.25 |
-| CHF | MZN | buy | 75.87 |
-| CHF | MZN | sell | 77.4 |
-| CNH | MZN | buy | 9.44 |
-| CNH | MZN | sell | 9.63 |
-| CNY | MZN | buy | 9.44 |
-| CNY | MZN | sell | 9.63 |
-| DKK | MZN | buy | 9.47 |
-| DKK | MZN | sell | 9.66 |
-| EUR | MZN | buy | 70.76 |
-| EUR | MZN | sell | 72.18 |
-| GBP | MZN | buy | 83.43 |
-| GBP | MZN | sell | 85.11 |
+| AUD | MZN | buy | 44.17 |
+| AUD | MZN | sell | 45.06 |
+| BRL | MZN | buy | 12.61 |
+| BRL | MZN | sell | 12.86 |
+| BWP | MZN | buy | 4.87 |
+| BWP | MZN | sell | 4.96 |
+| CAD | MZN | buy | 44.47 |
+| CAD | MZN | sell | 45.36 |
+| CHF | MZN | buy | 76.15 |
+| CHF | MZN | sell | 77.67 |
+| CNH | MZN | buy | 9.45 |
+| CNH | MZN | sell | 9.64 |
+| CNY | MZN | buy | 9.45 |
+| CNY | MZN | sell | 9.64 |
+| DKK | MZN | buy | 9.5 |
+| DKK | MZN | sell | 9.69 |
+| EUR | MZN | buy | 70.99 |
+| EUR | MZN | sell | 72.41 |
+| GBP | MZN | buy | 83.76 |
+| GBP | MZN | sell | 85.44 |
 | KWD | MZN | buy | 205.36 |
 | KWD | MZN | sell | 209.48 |
 | MUR | MZN | buy | 1.34 |
 | MUR | MZN | sell | 1.36 |
-| NOK | MZN | buy | 6.61 |
-| NOK | MZN | sell | 6.74 |
-| NZD | MZN | buy | 35.38 |
-| NZD | MZN | sell | 36.09 |
-| SEK | MZN | buy | 6.32 |
-| SEK | MZN | sell | 6.44 |
+| NOK | MZN | buy | 6.62 |
+| NOK | MZN | sell | 6.75 |
+| NZD | MZN | buy | 35.51 |
+| NZD | MZN | sell | 36.23 |
+| SEK | MZN | buy | 6.36 |
+| SEK | MZN | sell | 6.48 |
 | USD | MZN | buy | 63.27 |
 | USD | MZN | sell | 64.54 |
-| XDR | MZN | buy | 85.55 |
-| XDR | MZN | sell | 87.27 |
-| ZAR | MZN | buy | 3.79 |
-| ZAR | MZN | sell | 3.87 |
-| ZMK | MZN | buy | 3.19 |
-| ZMK | MZN | sell | 3.25 |
+| XDR | MZN | buy | 85.53 |
+| XDR | MZN | sell | 87.25 |
+| ZAR | MZN | buy | 3.83 |
+| ZAR | MZN | sell | 3.91 |
+| ZMK | MZN | buy | 3.18 |
+| ZMK | MZN | sell | 3.24 |
 
 Source: [Official rates published by BDM, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/bdm/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->
