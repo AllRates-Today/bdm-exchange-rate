@@ -20,6 +20,10 @@
 
 > **Official rate, not mid-market:** every value here is a number Banco de Moçambique itself published, fixed once printed and carrying the central bank's own `rate_date` — what filings and audits require. Need the live mid-market rate for pricing or display instead? Use the [mid-market API](https://allratestoday.com/docs/) or [`@allratestoday/sdk`](https://www.npmjs.com/package/@allratestoday/sdk). The two can diverge by several percent.
 
+## 🔑 Get your API key
+
+Get a free API key at [allratestoday.com/register](https://allratestoday.com/register) — no credit card required. Latest rates are on every plan, including free.
+
 ## ⚡ Try it without a key
 
 The latest Banco de Moçambique table is also served keyless, CORS-open and edge-cached, for evaluation, embeds and AI agents:
@@ -43,59 +47,55 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-19 by Banco de Moçambique — 40 rates. Updated 2026-10-19.</summary>
+<summary>Table as text: published 2026-10-20 by Banco de Moçambique — 40 rates. Updated 2026-10-20.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
 | AED | MZN | buy | 17.23 |
 | AED | MZN | sell | 17.57 |
-| AUD | MZN | buy | 44.17 |
-| AUD | MZN | sell | 45.05 |
-| BRL | MZN | buy | 12.49 |
-| BRL | MZN | sell | 12.74 |
-| BWP | MZN | buy | 4.87 |
-| BWP | MZN | sell | 4.97 |
-| CAD | MZN | buy | 44.89 |
-| CAD | MZN | sell | 45.79 |
-| CHF | MZN | buy | 76.67 |
-| CHF | MZN | sell | 78.21 |
-| CNH | MZN | buy | 9.47 |
-| CNH | MZN | sell | 9.66 |
-| CNY | MZN | buy | 9.47 |
-| CNY | MZN | sell | 9.66 |
-| DKK | MZN | buy | 9.49 |
-| DKK | MZN | sell | 9.68 |
-| EUR | MZN | buy | 70.91 |
-| EUR | MZN | sell | 72.34 |
-| GBP | MZN | buy | 84.31 |
-| GBP | MZN | sell | 86 |
+| AUD | MZN | buy | 44.24 |
+| AUD | MZN | sell | 45.13 |
+| BRL | MZN | buy | 12.56 |
+| BRL | MZN | sell | 12.81 |
+| BWP | MZN | buy | 4.88 |
+| BWP | MZN | sell | 4.98 |
+| CAD | MZN | buy | 45.02 |
+| CAD | MZN | sell | 45.92 |
+| CHF | MZN | buy | 76.74 |
+| CHF | MZN | sell | 78.28 |
+| CNH | MZN | buy | 9.48 |
+| CNH | MZN | sell | 9.67 |
+| CNY | MZN | buy | 9.48 |
+| CNY | MZN | sell | 9.67 |
+| DKK | MZN | buy | 9.5 |
+| DKK | MZN | sell | 9.69 |
+| EUR | MZN | buy | 70.98 |
+| EUR | MZN | sell | 72.4 |
+| GBP | MZN | buy | 84.45 |
+| GBP | MZN | sell | 86.15 |
 | KWD | MZN | buy | 205.42 |
 | KWD | MZN | sell | 209.55 |
 | MUR | MZN | buy | 1.34 |
 | MUR | MZN | sell | 1.37 |
-| NOK | MZN | buy | 6.72 |
-| NOK | MZN | sell | 6.85 |
-| NZD | MZN | buy | 35.84 |
-| NZD | MZN | sell | 36.56 |
-| SEK | MZN | buy | 6.38 |
-| SEK | MZN | sell | 6.51 |
+| NOK | MZN | buy | 6.74 |
+| NOK | MZN | sell | 6.88 |
+| NZD | MZN | buy | 35.98 |
+| NZD | MZN | sell | 36.7 |
+| SEK | MZN | buy | 6.39 |
+| SEK | MZN | sell | 6.52 |
 | USD | MZN | buy | 63.27 |
 | USD | MZN | sell | 64.54 |
-| XDR | MZN | buy | 85.83 |
-| XDR | MZN | sell | 87.55 |
-| ZAR | MZN | buy | 3.84 |
-| ZAR | MZN | sell | 3.92 |
-| ZMK | MZN | buy | 3.17 |
-| ZMK | MZN | sell | 3.24 |
+| XDR | MZN | buy | 85.72 |
+| XDR | MZN | sell | 87.45 |
+| ZAR | MZN | buy | 3.85 |
+| ZAR | MZN | sell | 3.93 |
+| ZMK | MZN | buy | 3.16 |
+| ZMK | MZN | sell | 3.23 |
 
 </details>
 
 Source: [Official rates published by BDM, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/bdm/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->
-
-## 🔑 Get your API key
-
-Get a free API key at [allratestoday.com/register](https://allratestoday.com/register) — no credit card required. Latest rates are on every plan, including free.
 
 ## 📦 Installation
 
