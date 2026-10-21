@@ -37,7 +37,7 @@ const r = await fetch('https://allratestoday.com/api/open/central-bank/bdm').the
 console.log(r.rate_date, r.rates.length); // the central bank's latest published table, no key
 ```
 
-The open endpoint serves the *latest* table only (JSON by default; add `?format=csv`, `xml` or `xlsx` for a file) and asks for a visible attribution link. The client below uses the keyed API, which adds point-in-time tables and history.
+The open endpoint serves the *latest* table only (JSON by default; add `?format=csv`, `xml` or `xlsx` for a file) and is free to use with a visible, followable link where the rates are shown: `<a href="https://allratestoday.com">Exchange rates by AllRatesToday</a>` (terms: <https://allratestoday.com/terms/#attribution>). The client below uses the keyed API, which adds point-in-time tables and history; with a key the link is appreciated, not required.
 
 ## 📈 Latest published table
 
@@ -47,50 +47,50 @@ The image is rendered live from the keyless endpoint above, so it follows the ce
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-10-20 by Banco de Moçambique — 40 rates. Updated 2026-10-20.</summary>
+<summary>Table as text: published 2026-10-21 by Banco de Moçambique — 40 rates. Updated 2026-10-21.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
 | AED | MZN | buy | 17.23 |
 | AED | MZN | sell | 17.57 |
-| AUD | MZN | buy | 44.24 |
-| AUD | MZN | sell | 45.13 |
-| BRL | MZN | buy | 12.56 |
-| BRL | MZN | sell | 12.81 |
-| BWP | MZN | buy | 4.88 |
-| BWP | MZN | sell | 4.98 |
-| CAD | MZN | buy | 45.02 |
-| CAD | MZN | sell | 45.92 |
-| CHF | MZN | buy | 76.74 |
-| CHF | MZN | sell | 78.28 |
+| AUD | MZN | buy | 44.5 |
+| AUD | MZN | sell | 45.4 |
+| BRL | MZN | buy | 12.61 |
+| BRL | MZN | sell | 12.87 |
+| BWP | MZN | buy | 4.89 |
+| BWP | MZN | sell | 4.99 |
+| CAD | MZN | buy | 45.03 |
+| CAD | MZN | sell | 45.93 |
+| CHF | MZN | buy | 76.8 |
+| CHF | MZN | sell | 78.34 |
 | CNH | MZN | buy | 9.48 |
 | CNH | MZN | sell | 9.67 |
 | CNY | MZN | buy | 9.48 |
 | CNY | MZN | sell | 9.67 |
-| DKK | MZN | buy | 9.5 |
-| DKK | MZN | sell | 9.69 |
-| EUR | MZN | buy | 70.98 |
-| EUR | MZN | sell | 72.4 |
-| GBP | MZN | buy | 84.45 |
-| GBP | MZN | sell | 86.15 |
+| DKK | MZN | buy | 9.51 |
+| DKK | MZN | sell | 9.7 |
+| EUR | MZN | buy | 71.07 |
+| EUR | MZN | sell | 72.49 |
+| GBP | MZN | buy | 84.74 |
+| GBP | MZN | sell | 86.44 |
 | KWD | MZN | buy | 205.42 |
 | KWD | MZN | sell | 209.55 |
 | MUR | MZN | buy | 1.34 |
 | MUR | MZN | sell | 1.37 |
-| NOK | MZN | buy | 6.74 |
-| NOK | MZN | sell | 6.88 |
-| NZD | MZN | buy | 35.98 |
-| NZD | MZN | sell | 36.7 |
-| SEK | MZN | buy | 6.39 |
-| SEK | MZN | sell | 6.52 |
+| NOK | MZN | buy | 6.76 |
+| NOK | MZN | sell | 6.89 |
+| NZD | MZN | buy | 36.03 |
+| NZD | MZN | sell | 36.76 |
+| SEK | MZN | buy | 6.41 |
+| SEK | MZN | sell | 6.54 |
 | USD | MZN | buy | 63.27 |
 | USD | MZN | sell | 64.54 |
-| XDR | MZN | buy | 85.72 |
-| XDR | MZN | sell | 87.45 |
-| ZAR | MZN | buy | 3.85 |
-| ZAR | MZN | sell | 3.93 |
+| XDR | MZN | buy | 85.71 |
+| XDR | MZN | sell | 87.43 |
+| ZAR | MZN | buy | 3.87 |
+| ZAR | MZN | sell | 3.95 |
 | ZMK | MZN | buy | 3.16 |
-| ZMK | MZN | sell | 3.23 |
+| ZMK | MZN | sell | 3.22 |
 
 </details>
 
