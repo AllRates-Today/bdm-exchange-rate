@@ -32,24 +32,24 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-09 by Banco de Moçambique — 40 rates. Updated 2026-11-09.</summary>
+<summary>Table as text: published 2026-11-10 by Banco de Moçambique — 40 rates. Updated 2026-11-10.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
 | AED | MZN | buy | 17.23 |
 | AED | MZN | sell | 17.57 |
-| AUD | MZN | buy | 43.69 |
-| AUD | MZN | sell | 44.57 |
-| BRL | MZN | buy | 11.5 |
-| BRL | MZN | sell | 11.73 |
+| AUD | MZN | buy | 43.63 |
+| AUD | MZN | sell | 44.5 |
+| BRL | MZN | buy | 11.48 |
+| BRL | MZN | sell | 11.71 |
 | BWP | MZN | buy | 4.87 |
-| BWP | MZN | sell | 4.96 |
-| CAD | MZN | buy | 44.94 |
-| CAD | MZN | sell | 45.84 |
-| CHF | MZN | buy | 77.37 |
-| CHF | MZN | sell | 78.92 |
+| BWP | MZN | sell | 4.97 |
+| CAD | MZN | buy | 44.87 |
+| CAD | MZN | sell | 45.77 |
+| CHF | MZN | buy | 77.29 |
+| CHF | MZN | sell | 78.84 |
 | CNH | MZN | buy | 9.48 |
-| CNH | MZN | sell | 9.67 |
+| CNH | MZN | sell | 9.68 |
 | CNY | MZN | buy | 9.48 |
 | CNY | MZN | sell | 9.67 |
 | DKK | MZN | buy | 9.48 |
@@ -62,19 +62,19 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 | KWD | MZN | sell | 209.41 |
 | MUR | MZN | buy | 1.35 |
 | MUR | MZN | sell | 1.38 |
-| NOK | MZN | buy | 6.75 |
-| NOK | MZN | sell | 6.88 |
-| NZD | MZN | buy | 35.5 |
-| NZD | MZN | sell | 36.21 |
+| NOK | MZN | buy | 6.73 |
+| NOK | MZN | sell | 6.86 |
+| NZD | MZN | buy | 35.53 |
+| NZD | MZN | sell | 36.25 |
 | SEK | MZN | buy | 6.44 |
 | SEK | MZN | sell | 6.57 |
 | USD | MZN | buy | 63.27 |
 | USD | MZN | sell | 64.54 |
 | XDR | MZN | buy | 85.66 |
 | XDR | MZN | sell | 87.38 |
-| ZAR | MZN | buy | 3.84 |
-| ZAR | MZN | sell | 3.92 |
-| ZMK | MZN | buy | 3.11 |
+| ZAR | MZN | buy | 3.85 |
+| ZAR | MZN | sell | 3.93 |
+| ZMK | MZN | buy | 3.12 |
 | ZMK | MZN | sell | 3.18 |
 
 </details>
