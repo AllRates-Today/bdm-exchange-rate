@@ -32,46 +32,46 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-17 by Banco de Moçambique — 40 rates. Updated 2026-11-17.</summary>
+<summary>Table as text: published 2026-11-18 by Banco de Moçambique — 40 rates. Updated 2026-11-18.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
 | AED | MZN | buy | 17.23 |
 | AED | MZN | sell | 17.57 |
-| AUD | MZN | buy | 42.61 |
-| AUD | MZN | sell | 43.46 |
+| AUD | MZN | buy | 42.54 |
+| AUD | MZN | sell | 43.39 |
 | BRL | MZN | buy | 10.95 |
 | BRL | MZN | sell | 11.17 |
 | BWP | MZN | buy | 4.77 |
 | BWP | MZN | sell | 4.87 |
-| CAD | MZN | buy | 44.25 |
-| CAD | MZN | sell | 45.14 |
-| CHF | MZN | buy | 75.45 |
-| CHF | MZN | sell | 76.96 |
+| CAD | MZN | buy | 44.19 |
+| CAD | MZN | sell | 45.08 |
+| CHF | MZN | buy | 75.22 |
+| CHF | MZN | sell | 76.73 |
 | CNH | MZN | buy | 9.49 |
 | CNH | MZN | sell | 9.68 |
 | CNY | MZN | buy | 9.49 |
 | CNY | MZN | sell | 9.68 |
 | DKK | MZN | buy | 9.3 |
-| DKK | MZN | sell | 9.49 |
-| EUR | MZN | buy | 69.55 |
-| EUR | MZN | sell | 70.95 |
-| GBP | MZN | buy | 83.43 |
-| GBP | MZN | sell | 85.11 |
-| KWD | MZN | buy | 204.89 |
-| KWD | MZN | sell | 209 |
-| MUR | MZN | buy | 1.33 |
+| DKK | MZN | sell | 9.48 |
+| EUR | MZN | buy | 69.48 |
+| EUR | MZN | sell | 70.88 |
+| GBP | MZN | buy | 83.4 |
+| GBP | MZN | sell | 85.08 |
+| KWD | MZN | buy | 204.82 |
+| KWD | MZN | sell | 208.93 |
+| MUR | MZN | buy | 1.32 |
 | MUR | MZN | sell | 1.35 |
 | NOK | MZN | buy | 6.56 |
 | NOK | MZN | sell | 6.69 |
-| NZD | MZN | buy | 34.79 |
-| NZD | MZN | sell | 35.49 |
-| SEK | MZN | buy | 6.26 |
-| SEK | MZN | sell | 6.39 |
+| NZD | MZN | buy | 34.75 |
+| NZD | MZN | sell | 35.45 |
+| SEK | MZN | buy | 6.24 |
+| SEK | MZN | sell | 6.36 |
 | USD | MZN | buy | 63.27 |
 | USD | MZN | sell | 64.54 |
-| XDR | MZN | buy | 85.13 |
-| XDR | MZN | sell | 86.84 |
+| XDR | MZN | buy | 85.1 |
+| XDR | MZN | sell | 86.81 |
 | ZAR | MZN | buy | 3.73 |
 | ZAR | MZN | sell | 3.81 |
 | ZMK | MZN | buy | 3.09 |
